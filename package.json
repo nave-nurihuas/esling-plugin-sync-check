@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-sync-check",
+  "version": "1.0.0",
+  "description": "An ESLint plugin that checks if files are synchronized with a common module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "sync",
+    "file synchronization"
+  ],
+  "author": "nave-nuri",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
